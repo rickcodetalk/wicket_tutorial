@@ -4,3 +4,4 @@ wicket/.classpath
 wicket/.project
 wicket/.settings
 wicket/target
+.recommenders/*
